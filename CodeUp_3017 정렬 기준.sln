@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeUp_3017 정렬 기준", "CodeUp_3017 정렬 기준\CodeUp_3017 정렬 기준.vcxproj", "{45960B42-C18D-41EE-B226-6110EC4713EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Debug|x64.ActiveCfg = Debug|x64
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Debug|x64.Build.0 = Debug|x64
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Debug|x86.Build.0 = Debug|Win32
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Release|x64.ActiveCfg = Release|x64
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Release|x64.Build.0 = Release|x64
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Release|x86.ActiveCfg = Release|Win32
+		{45960B42-C18D-41EE-B226-6110EC4713EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32AE3BD4-EC39-45C7-A40E-0F3DD8BD2DEC}
+	EndGlobalSection
+EndGlobal
